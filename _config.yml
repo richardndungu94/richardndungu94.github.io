@@ -2,7 +2,9 @@ title: "Richard Ndungu"
 name: "Richard Ndungu"
 description: "Cybersecurity • Threat Hunting • Incident Response • AppSec"
 url: "https://richard.github.io"
-theme: minimal-mistakes-jekyll
+
+# Use Minimal Mistakes as a remote theme
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Navigation bar
 nav:
@@ -15,7 +17,7 @@ nav:
 
 author:
   name: "Richard Ndungu"
-  avatar: "/assets/profile.png"   # Optional, add a profile photo
+  avatar: "/assets/profile.png"   # Optional
   bio: "Cybersecurity Analyst | Threat Hunter | AppSec Engineer"
   location: "Kenya"
   links:
@@ -26,12 +28,13 @@ author:
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/your-profile"
 
-# Enable plugins
+# Required plugins for Minimal Mistakes
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-include-cache    # REQUIRED for Minimal Mistakes
 
 paginate: 5
 paginate_path: "/blog/page:num/"
