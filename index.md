@@ -24,4 +24,4 @@ This site contains writeup's in:
 
 The research is intended for education purposes.
 
-The **Blog** page.
+Happy hacking Folks
