@@ -5,6 +5,7 @@ permalink: /
 ---
 
 # Welcome
+# TEST CHANGE — SHOULD APPEAR
 
 I’m **Richard Ndungu**, a cybersecurity professional specializing in:
 
