@@ -6,7 +6,7 @@ url: "https://richardndungu94.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "hacker-dark"
 
-# Navigation bar
+# Navigation
 nav:
   - title: "Home"
     url: /
