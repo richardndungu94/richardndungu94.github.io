@@ -1,0 +1,26 @@
+/* Hacker Terminal Dark Mode Skin */
+
+$background-color: #000 !default;
+$body-background-color: #000 !default;
+$text-color: #00ff66 !default;
+$primary-color: #00ff66 !default;
+
+$link-color: #00ff66 !default;
+$link-hover-color: lighten(#00ff66, 15%) !default;
+
+$navbar-background-color: #000 !default;
+$header-background-color: #000 !default;
+$footer-background-color: #000 !default;
+
+$code-background-color: #001700 !default;
+$code-text-color: #00ff66 !default;
+
+/* Make code blocks look terminal-like */
+.highlight {
+  background: #001700 !important;
+  color: #00ff66 !important;
+  border: 1px solid #00ff66;
+  padding: 10px;
+  border-radius: 5px;
+}
+

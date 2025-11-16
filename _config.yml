@@ -3,8 +3,11 @@ name: "Richard Ndungu"
 description: "Cybersecurity • Threat Hunting • Incident Response • AppSec"
 url: "https://richard.github.io"
 
-# Use Minimal Mistakes as a remote theme
+# Use Minimal Mistakes remote theme
 remote_theme: "mmistakes/minimal-mistakes"
+
+# Enable dark mode + custom terminal skin
+minimal_mistakes_skin: "hacker-dark"
 
 # Navigation bar
 nav:
@@ -17,7 +20,7 @@ nav:
 
 author:
   name: "Richard Ndungu"
-  avatar: "/assets/profile.png"   # Optional
+  avatar: "/assets/profile.png"
   bio: "Cybersecurity Analyst | Threat Hunter | AppSec Engineer"
   location: "Kenya"
   links:
@@ -34,7 +37,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-include-cache    # REQUIRED for Minimal Mistakes
+  - jekyll-include-cache
 
 paginate: 5
 paginate_path: "/blog/page:num/"
