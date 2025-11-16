@@ -4,7 +4,7 @@ title: "Richard Ndungu"
 permalink: /
 ---
 
-
+![Alt text](/images/genai-kill-devsecops.jpg)
 
 # Welcome Cybersecurity Enthusiasts;
 
