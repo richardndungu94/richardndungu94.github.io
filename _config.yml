@@ -4,7 +4,7 @@ description: "Cybersecurity • Threat Hunting • Incident Response • AppSec"
 url: "https://richardndungu94.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"   # or "neon" or "default"
+minimal_mistakes_skin: "hacker-dark"
 
 # Navigation bar
 nav:
