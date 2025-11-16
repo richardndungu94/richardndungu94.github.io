@@ -12,15 +12,33 @@ $navbar-background-color: #000 !default;
 $header-background-color: #000 !default;
 $footer-background-color: #000 !default;
 
+$body-font-family: 'Fira Code', monospace !default;
+$heading-font-family: 'Fira Code', monospace !default;
+
 $code-background-color: #001700 !default;
 $code-text-color: #00ff66 !default;
 
-/* Make code blocks look terminal-like */
+/* Terminal-style code blocks */
 .highlight {
   background: #001700 !important;
   color: #00ff66 !important;
+  font-family: 'Fira Code', monospace !important;
   border: 1px solid #00ff66;
   padding: 10px;
   border-radius: 5px;
+}
+
+/* Links */
+a {
+  color: #00ff66;
+  &:hover {
+    color: lighten(#00ff66, 15%);
+  }
+}
+
+/* Optional: add blinking cursor for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fira Code', monospace !important;
+  color: #00ff66 !important;
 }
 
