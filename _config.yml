@@ -1,13 +1,10 @@
 title: "Richard Ndungu"
 name: "Richard Ndungu"
 description: "Cybersecurity • Threat Hunting • Incident Response • AppSec"
-url: "https://richard.github.io"
+url: "https://richardndungu94.github.io"
 
-# Use Minimal Mistakes remote theme
 remote_theme: "mmistakes/minimal-mistakes"
-
-# Enable dark mode + custom terminal skin
-minimal_mistakes_skin: "hacker-dark"
+minimal_mistakes_skin: "dark"   # or "neon" or "default"
 
 # Navigation bar
 nav:
@@ -26,12 +23,11 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/richardndungu94"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/your-profile"
 
-# Required plugins for Minimal Mistakes
 plugins:
   - jekyll-feed
   - jekyll-sitemap
