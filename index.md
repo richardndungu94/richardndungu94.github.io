@@ -16,5 +16,4 @@ I’m **Richard Ndungu**, a cybersecurity professional specializing in:
 
 This site is my professional portfolio and blog, where I share real-world cybersecurity knowledge, projects, and research.
 
-👉 Check out my latest posts below.
-
+👉 Check out my posts on the **Blog** page.
