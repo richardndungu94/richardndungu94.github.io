@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Richard Ndungu"
+title: "AppSec/DevSecOps"
 permalink: /
 ---
 
