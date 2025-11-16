@@ -4,17 +4,24 @@ title: "Richard Ndungu"
 permalink: /
 ---
 
-# Welcome
-# TEST CHANGE — SHOULD APPEAR
 
-I’m **Richard Ndungu**, a cybersecurity professional specializing in:
 
+# Welcome Cybersecurity Enthusiasts;
+
+
+This site contains writeup's in:
+
+- Infosec
+- Cybersecurity
+- Appsec
+- Devsecops
+- CVE'S
+- AI aecurity
 - Incident Response  
-- Threat Hunting  
-- Application Security  
+- Threat Hunting
 - Exploit Analysis  
-- Cloud Security  
+- Cloud Security
 
-This site is my professional portfolio and blog, where I share real-world cybersecurity knowledge, projects, and research.
+The research is intended for education purposes.
 
-👉 Check out my posts on the **Blog** page.
+The **Blog** page.
